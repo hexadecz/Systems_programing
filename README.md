@@ -10,6 +10,8 @@ Segregates code and data efficiently for logical program organization.
 Passes of Assembly:
 
 Pass 1: Generates memory location information (out_pass1.txt) and a symbol table (symbTable.txt).
+
+
 Pass 2: Converts assembly instructions into machine code (out_pass2.txt) and organizes object code into the HTME format (HTME.txt).
 Error Handling:
 
